@@ -2,6 +2,12 @@
 
 PayLink card payment SDK for Node.js — create invoices, query transactions, run reports.
 
+[![npm version](https://img.shields.io/npm/v/@mongolian-payment/paylink.svg)](https://www.npmjs.com/package/@mongolian-payment/paylink)
+[![license](https://img.shields.io/npm/l/@mongolian-payment/paylink.svg)](./LICENSE)
+
+> Part of the **[mongolian-payment](https://github.com/mongolian-payment)** SDK suite.
+> Also available for Python: **[mongolian-payment-paylink](https://pypi.org/project/mongolian-payment-paylink/)** ([source](https://github.com/mongolian-payment/paylink-py)).
+
 Wraps the PayLink External API (single `POST /external/process` endpoint, process-code driven).
 
 ## Installation
